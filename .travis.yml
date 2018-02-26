@@ -15,3 +15,6 @@ script:
   - yarn lint
   - yarn compile
   - yarn test
+branches:
+  only:
+    - master
