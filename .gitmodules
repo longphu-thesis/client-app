@@ -1,0 +1,4 @@
+[submodule "server-golang-app"]
+	path = server-golang-app
+	url = https://github.com/longphu-thesis/server-golang-app.git
+	branch = dev
